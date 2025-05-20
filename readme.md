@@ -1,6 +1,6 @@
-# Lab 6 - Using a Database in a Sveltekit Application
+# Lab 3 - Using a Database in a Sveltekit Application
 
-Enda Lee 2023
+Enda Lee 2025
 
 ### Quick Start
 
